@@ -15,9 +15,9 @@
 </li>
 </ul>
 
-<h3 align="left">Stacks I work and slide 🤗:</h3>
+<h3 align="left">Stacks that I work and surf 🤗:</h3>
 pedding...
 
-<h3 align="left">Stacks I work and still I crawl 😅:</h3>
+<h3 align="left">Stacks that I work and still I crawl 😅:</h3>
 pedding...
 
