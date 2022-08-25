@@ -11,7 +11,7 @@
   <li> 🎓 Software Engineering Graduate/Graduating from <a href="https://www.unama.br">Unama</a> and <a href="https://www.fiap.com.br">Fiap</a> </li>
   <li> ✨  My favorite side project it is, and always will be (or not...), my first one <a href="https://github.com/gasil96/space-tattoo-studio">Space Tattoo Studio</a> </li>
   <li> 🔭 My newest side project is <a href="https://github.com/gasil96/go-project">Go App</a> </li>
-  <li> 📫 to find me, just send me a email: <a href="mailto: gasil96@gmail.com">gasil96@gmail.com</a> </li>
+  <li> 📫 To find me, just send me a email: <a href="mailto: gasil96@gmail.com">gasil96@gmail.com</a> </li>
 </li>
 </ul>
 
