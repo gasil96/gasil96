@@ -7,7 +7,7 @@
 ![Profile views](https://gpvc.arturio.dev/gasil96)<p><a href="https://www.linkedin.com/in/gabriel-silva-74811a136"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-silva-74811a136" alt="LinkedIn Badge"></a> </P>
 
 <ul>
-  <li> 💻 I'm currently working for <a href="https://compass.uolm">Compass.uol</a> </li>
+  <li> 💻 I'm currently working for <a href="https://www.bancointer.com.br/">Inter Nasdaq Listed</a> </li>
   <li> 🎓 Software Engineering Graduate/Graduating in <a href="https://www.unama.br">Unama</a> and <a href="https://www.fiap.com.br">Fiap</a> </li>
   <li> ✨  My favorite side project it is, and always will be (or not...), my first one <a href="https://github.com/gasil96/space-tattoo-studio">Space Tattoo Studio</a> </li>
   <li> 🔭 My newest side project is <a href="https://github.com/gasil96/go-project">Go App</a> </li>
