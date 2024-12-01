@@ -5,8 +5,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Desenvolvedor+de+Software...;Ou+apenas+um+resolvedor+de+bugs." alt="Typing SVG" /></a>
 
 <ul>
-  <li> ✨ Meu projeto paralelo favorito é, e sempre será (ou talvez não...), meu primeiro projeto: <a href="https://github.com/gasil96/space-tattoo-studio">Space Tattoo Studio</a> </li>
-  <li> 🔭 Meu projeto paralelo mais recente que ja é bem legado haha é o <a href="https://github.com/gasil96/go-project">Go App</a> </li>
+  <li> ✨ Meu projeto paralelo favorito é, e sempre será, meu primeiro projeto: <a href="https://github.com/gasil96/space-tattoo-studio">Space Tattoo Studio</a> </li>
+  <li> 🔭 Meu projeto paralelo mais recente que ja é bem legado é o <a href="https://github.com/gasil96/go-project">Go App</a> </li>
+  <li> 🗝️ Em algum momento eu devo colocar outro projetinho aqui! </li>
   <li> 📫 Para entrar em contato comigo, envie um e-mail: <a href="mailto: gasil96@gmail.com">gasil96@gmail.com</a> </li>
 </li>
 </ul>
