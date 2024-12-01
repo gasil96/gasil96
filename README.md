@@ -4,8 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Desenvolvedor+Full+Stack...+não,+não,+não;Desenvolvedor+Backend...+não,+não,+não;Desenvolvedor+Mobile...+não,+não,+não;Apenas+Desenvolvedor,+certo%3F" alt="Typing SVG" /></a>
 
-![Visualizações do perfil](https://gpvc.arturio.dev/gasil96)<p><a href="https://www.linkedin.com/in/gabriel-silva-74811a136"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/gabriel-silva-74811a136" alt="LinkedIn Badge"></a> </P>
-
 <ul>
   <li> ✨ Meu projeto paralelo favorito é, e sempre será (ou talvez não...), meu primeiro projeto: <a href="https://github.com/gasil96/space-tattoo-studio">Space Tattoo Studio</a> </li>
   <li> 🔭 Meu projeto paralelo mais recente que ja é bem legado haha é o <a href="https://github.com/gasil96/go-project">Go App</a> </li>
