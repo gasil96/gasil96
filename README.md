@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Desenvolvedor+Full+Stack...+não,+não,+não;Desenvolvedor+Backend...+não,+não,+não;Desenvolvedor+Mobile...+não,+não,+não;Apenas+Desenvolvedor,+certo%3F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Desenvolvedor+de+Software...;Ou+apenas+um+resolvedor+de+bugs." alt="Typing SVG" /></a>
 
 <ul>
   <li> ✨ Meu projeto paralelo favorito é, e sempre será (ou talvez não...), meu primeiro projeto: <a href="https://github.com/gasil96/space-tattoo-studio">Space Tattoo Studio</a> </li>
