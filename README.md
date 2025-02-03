@@ -1,20 +1,42 @@
-<h1 align="center">Olá 👋, Eu sou Gabriel Silva</h1>
+# 👋 Olá, eu sou Gabriel Silva
 
-<br>
+Sou programador desde 2018, especializado em **Java** e apaixonado por soluções escaláveis, resilientes e de alto desempenho. Tenho experiência profunda com **Java** desde a versão **6** até as mais modernas **17 e 21**, utilizando os melhores frameworks e padrões do ecossistema.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58F71A&width=435&lines=Desenvolvedor+de+Software...;Ou+apenas+um+resolvedor+de+bugs." alt="Typing SVG" /></a>
+Apesar da minha especialização focada em **Java**, já trabalhei ou trabalho com outras linguagens que ainda mantenho o estudo como **Python**, **Go Lang** e, principalmente, **JavaScript** para desenvolvimento frontend.
+## 🚀 Tecnologias e Ferramentas
 
-<ul>
-  <li> ✨ Meu projeto paralelo favorito é, e sempre será, meu primeiro projeto: <a href="https://github.com/gasil96/space-tattoo-studio">Space Tattoo Studio</a> </li>
-  <li> 🔭 Meu projeto paralelo mais recente que ja é bem legado é o <a href="https://github.com/gasil96/go-project">Go App</a> </li>
-  <li> 🗝️ Em algum momento eu devo colocar outro projetinho aqui! </li>
-  <li> 📫 Para entrar em contato comigo, envie um e-mail: <a href="mailto: gasil96@gmail.com">gasil96@gmail.com</a> </li>
-</li>
-</ul>
+### 🏗 Backend (Principalmente Java)
+- **Java 6 → 21** (Desde a uso em JBoss, EAP até as versões mais modernas)
+- **Spring Ecosystem**: Spring Boot, Spring Security, WebFlux, Thymeleaf, Spring Cloud
+- **Micronaut**: Micronaut Declarative, integração com Kafka e outros serviços
+- **Alto desempenho**: Concorrência, paralelismo, tuning de JVM, profiling e otimização de código
 
-<h3 align="left">Tecnologias que utilizo e domino 🤗:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/br/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://micronaut.io/" target="_blank" rel="noreferrer"> <img src="https://objectcomputing.com/files/2116/2256/3670/sally_micronaut_mascot.png" alt="micronaut" width="40" height="40"/> </a> </p>
+### ☁ Cloud & DevOps
+- **Kubernetes** na AWS e Azure
+- **AWS**: EC2, Lambda, S3, RDS, DynamoDB, API Gateway, IAM, EKS...
+- **Azure**: AKS, Azure Functions, CosmosDB, Blob Storage, Azure DevOps, App Service
 
-<h3 align="left">Tecnologias que utilizo, mas ainda estou aprendendo 😅:</h3>
-<p align="left"> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+### 🗄️ Bancos de Dados
+- **Relacionais**: SQL Server, Oracle, MySQL
+- **NoSQL**: MongoDB, DynamoDB
+
+### 🤖 Bots e NLP/NLG
+- **Watson Assistant**, **Amazon Lex** para chatbots inteligentes
+- **Integração com NLP e NLG** para experiências conversacionais avançadas
+
+### 🧠 Inteligência Artificial & LLMs
+- Estudos e aplicações em **LLMs** como **ChatGPT, DeepSeek, LLaMA** e outros modelos modernos
+- Foco em **integração e desenvolvimento de aplicações baseadas em IA**
+
+### 📊 Monitoramento & Observabilidade
+- **New Relic, OpenSearch** para análise de dados, logs e insights de performance
+- Entendimento de **dados como ativo estratégico** para desenvolvimento de software
+
+## 🏛 Arquitetura e Design de Software
+- **Arquitetura Hexagonal**, **MVC**, **Event-Driven Architecture**, **Microservices**
+- **Desenho de soluções escaláveis** e bem estruturadas
+
+## 🎯 Projetos e Contribuições
+Tenho diversos **projetos pessoais**, de **baixa** á **alta complexidade**, alguns deles disponíveis **publicamente** nesse GitHub.
+
+📌 **Seja bem-vindo ao meu perfil!** Caso queira trocar ideias ou colaborar em projetos, fique à vontade para entrar em contato. 🚀
