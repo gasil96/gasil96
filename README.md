@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel Silva
 
-Sou programador desde 2018, especializado em **Java** e apaixonado por soluções escaláveis, resilientes e de alto desempenho. Tenho experiência profunda com **Java** desde a versão **6** até as mais modernas **17 e 21**, utilizando os melhores frameworks e padrões do ecossistema.
+Programador, especializado em **Java** e apaixonado por soluções escaláveis, resilientes e de alto desempenho. Tenho experiência profunda com **Java** desde a versão **6** até as mais modernas **17 e 21**, utilizando os melhores frameworks e padrões do ecossistema.
 
 Apesar da minha especialização focada em **Java**, já trabalhei ou trabalho com outras linguagens que ainda mantenho o estudo como **Python**, **Go Lang** e, principalmente, **JavaScript** para desenvolvimento frontend.
 ## 🚀 Tecnologias e Ferramentas
