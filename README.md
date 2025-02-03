@@ -20,9 +20,17 @@ Apesar da minha especialização focada em **Java**, já trabalhei ou trabalho c
 - **Relacionais**: SQL Server, Oracle, MySQL
 - **NoSQL**: MongoDB, DynamoDB
 
-### 🤖 Bots e NLP/NLG
-- **Watson Assistant**, **Amazon Lex** para chatbots inteligentes
-- **Integração com NLP e NLG** para experiências conversacionais avançadas
+### 🤖 Arquitetura de Bots e NLP/NLG
+- Sólida experiência na **arquitetura e desenvolvimento de chatbots** inteligentes e conversacionais
+- **Watson Assistant**, **Amazon Lex** e outras plataformas para **NLP (Processamento de Linguagem Natural)** e **NLG (Geração de Linguagem Natural)**
+- **Integração com APIs, automação de fluxos conversacionais, personalização de respostas** e análise de intent
+- Foco em **escalabilidade, automação de atendimento e experiência do usuário** em soluções corporativas de CRM.
+
+### 🔄 BPM e Desenvolvimento Orientado a Processos
+- Sólida experiência com **Camunda BPMN** para modelagem e execução de processos de negócio
+- **Desenvolvimento orientado a processos** para otimização de fluxos empresariais
+- Integração com **microsserviços, eventos e automação de workflows**
+- Aplicação de **BPMN 2.0**, execução de decisões com **DMN**, e otimização de processos em **grandes sistemas corporativos**
 
 ### 🧠 Inteligência Artificial & LLMs
 - Estudos e aplicações em **LLMs** como **ChatGPT, DeepSeek, LLaMA** e outros modelos modernos
